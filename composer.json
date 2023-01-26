@@ -1,0 +1,19 @@
+{
+    "name": "lucasribeiro/pdfmaker-compressor",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lucasribeiro\\PdfmakerCompressor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Ribeiro",
+            "email": "lucasribeiro1024b@gmail.com"
+        }
+    ],
+    "require": {
+        "kbs1/mpdf-5.7-php7": "dev-master"
+    }
+}
